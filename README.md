@@ -6,10 +6,10 @@
 # Project Overview: 
 Analysed BMW Global Sales dataset of 2024, 2025 to understand revenue trend and model performance, GDP   growth, Fuel price index accross various region using an Excel Dashboard.
 # Tools Used: 
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
+Microsoft Excel,
+Pivot Tables,
+Pivot Charts,
+Slicers.
 # Dashboard Charts Explanation:
 1. Pie Chart:
    Shows the distribution of units sold accross various BMW models
