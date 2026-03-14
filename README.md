@@ -13,7 +13,7 @@ Slicers.
 # Dashboard Charts Explanation:
 1. **Pie Chart**:
    Shows the distribution of units sold accross various BMW models.
-2.**Line Chart**:
+2. **Line Chart**:
    Displays revenue trend of BMW for past 2 years.
 3. **Bar Chart**:
    Compares Electric Vehicle sales accross BMW models.
